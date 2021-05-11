@@ -1,0 +1,60 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(21, 20, 21);
+    color: white;
+    margin-top: 50px;
+}
+
+#box { 
+    text-align: center;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+#blurb { 
+    line-height: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#app_icon {
+    width: 300px;
+}
+
+#screenshot { 
+    border-radius: 10px;
+}
+
+#actions {
+    margin-top: 60px;
+}
+
+#actions a { 
+    margin: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#download {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: 600;
+}
+
+#donate { 
+    background-color: crimson;
+    color: white;
+}
+
+#twitter {
+    background-color: rgb(89, 133, 244);
+    color: white;
+}
+
+#email {
+    background-color: rgb(245, 118, 50);
+    color: white;
+}
